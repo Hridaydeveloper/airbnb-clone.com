@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Example hardcoded credentials (replace with backend validation if needed)
-    if (email === 'harry@gmail.com' && password === '123456') {
+    if (email === 'harry856@gmail.com' && password === 'harry123456@') {
       alert('Login successful!');
       document.getElementById('loginModal').classList.remove('active');
       window.location.href = 'https://www.airbnb.co.in/';
